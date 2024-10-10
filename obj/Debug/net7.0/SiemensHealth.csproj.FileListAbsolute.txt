@@ -14,7 +14,6 @@ D:\Programovanie\SiemensHealth\obj\Debug\net7.0\SiemensHealth.genruntimeconfig.c
 D:\Programovanie\SiemensHealth\obj\Debug\net7.0\ref\SiemensHealth.dll
 D:\Programovanie\SiemensHealth\bin\Debug\net7.0\Newtonsoft.Json.dll
 D:\Programovanie\SiemensHealth\obj\Debug\net7.0\SiemensHealth.csproj.AssemblyReference.cache
-D:\Programovanie\SiemensHealth\obj\Debug\net7.0\SiemensHealth.csproj.CopyComplete
 D:\Programovanie\SiemensHealth\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
 D:\Programovanie\SiemensHealth\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
 D:\Programovanie\SiemensHealth\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
@@ -26,3 +25,5 @@ D:\Programovanie\SiemensHealth\bin\Debug\net7.0\Microsoft.Extensions.Primitives.
 D:\Programovanie\SiemensHealth\bin\Debug\net7.0\System.Text.Encodings.Web.dll
 D:\Programovanie\SiemensHealth\bin\Debug\net7.0\System.Text.Json.dll
 D:\Programovanie\SiemensHealth\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+D:\Programovanie\SiemensHealth\obj\Debug\net7.0\SiemensHealth.sourcelink.json
+D:\Programovanie\SiemensHealth\obj\Debug\net7.0\SiemensH.6BEFF474.Up2Date

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "DkqdjsimvfJtmLF0Rgj2QPpUx2e5yS42geIRDbX5FBcNFemofVa76hFLLHiySPuaS5X8HeIN4uxb4/RCPhL8cA==",
+  "dgSpecHash": "uRbmozukjbQ=",
   "success": true,
   "projectFilePath": "D:\\Programovanie\\SiemensHealth\\SiemensHealth.csproj",
   "expectedPackageFiles": [
@@ -12,9 +12,7 @@
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\8.0.0\\microsoft.extensions.fileproviders.physical.8.0.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\8.0.0\\microsoft.extensions.filesystemglobbing.8.0.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
-    "C:\\Users\\Asus\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
-    "C:\\Users\\Asus\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
-    "C:\\Users\\Asus\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512"
+    "C:\\Users\\Asus\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }
