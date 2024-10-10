@@ -1,0 +1,54 @@
+{
+  "Name": "EXAMPLEFOLDER",
+  "Files": [
+    {
+      "Name": "1stLvlFile1.txt",
+      "Extension": ".txt"
+    },
+    {
+      "Name": "1stLvlFile2.test",
+      "Extension": ".test"
+    },
+    {
+      "Name": "myFolder.json",
+      "Extension": ".json"
+    }
+  ],
+  "Directories": [
+    {
+      "Name": "1stLvlFolder1",
+      "Files": [
+        {
+          "Name": "2ndLvlFile3.cs",
+          "Extension": ".cs"
+        }
+      ],
+      "Directories": []
+    },
+    {
+      "Name": "1stLvlFolder2",
+      "Files": [
+        {
+          "Name": "2ndLvlFile1.txt",
+          "Extension": ".txt"
+        },
+        {
+          "Name": "2ndLvlFile2.cs",
+          "Extension": ".cs"
+        }
+      ],
+      "Directories": [
+        {
+          "Name": "2ndLvlFolder1",
+          "Files": [
+            {
+              "Name": "3rdLvlFile1.txt",
+              "Extension": ".txt"
+            }
+          ],
+          "Directories": []
+        }
+      ]
+    }
+  ]
+}
