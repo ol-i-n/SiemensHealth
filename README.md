@@ -8,7 +8,7 @@ Tento projekt je jednoduchá C# aplikácia, ktorá načíta informácie o adres�
 
 ### Požiadavky
 
-- [.NET 7.0 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/7.0) (alebo novšia verzia)
+- [.NET 8.0 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) (alebo novšia verzia)
 - [Newtonsoft.Json](https://www.nuget.org/packages/Newtonsoft.Json) (nainštaluje sa cez NuGet)
 - [Microsoft.Extensions.Configuration](https://www.nuget.org/packages/Microsoft.Extensions.Configuration) (nainštaluje sa cez NuGet)
 
