@@ -1,0 +1,14 @@
+D:\Programovanie\SiemensHealth\bin\Debug\net7.0\SiemensHealth.exe
+D:\Programovanie\SiemensHealth\bin\Debug\net7.0\SiemensHealth.deps.json
+D:\Programovanie\SiemensHealth\bin\Debug\net7.0\SiemensHealth.runtimeconfig.json
+D:\Programovanie\SiemensHealth\bin\Debug\net7.0\SiemensHealth.dll
+D:\Programovanie\SiemensHealth\bin\Debug\net7.0\SiemensHealth.pdb
+D:\Programovanie\SiemensHealth\obj\Debug\net7.0\SiemensHealth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programovanie\SiemensHealth\obj\Debug\net7.0\SiemensHealth.AssemblyInfoInputs.cache
+D:\Programovanie\SiemensHealth\obj\Debug\net7.0\SiemensHealth.AssemblyInfo.cs
+D:\Programovanie\SiemensHealth\obj\Debug\net7.0\SiemensHealth.csproj.CoreCompileInputs.cache
+D:\Programovanie\SiemensHealth\obj\Debug\net7.0\SiemensHealth.dll
+D:\Programovanie\SiemensHealth\obj\Debug\net7.0\refint\SiemensHealth.dll
+D:\Programovanie\SiemensHealth\obj\Debug\net7.0\SiemensHealth.pdb
+D:\Programovanie\SiemensHealth\obj\Debug\net7.0\SiemensHealth.genruntimeconfig.cache
+D:\Programovanie\SiemensHealth\obj\Debug\net7.0\ref\SiemensHealth.dll
